@@ -1,4 +1,22 @@
-# Information
+**GENERATED WITH [Poke-translator](https://github.com/F-l-a/Poke-translator)**
+
+> [!NOTE]
+> Only SupersStoryStrings are translated. SupersSpeedStrings remain in English only.
+
+# Notes
+- sws_strings_en.xml: Misc + Buttons + NPCs + Items + Natures -> Translate all
+- sws_en_Unova_0.xml: Gyms/E4 (End Battle) (Unova) + Pokedex -> Translate Pokedex
+- sws_en_Unova_1.xml: HMs (Unova) + NPCs + Gyms/E4 (Unova)
+- sws_en_Sinnoh.xml: HMs (Sinnoh) + NPCs + Gyms/E4 (Sinnoh)
+- sws_en_Kanto.xml: HMs (Kanto) + NPCs + Gyms/E4 (Kanto)
+- sws_en_Johto.xml: HMs (Johto) + NPCs + Gyms/E4 (Johto)
+- sws_en_Hoenn.xml: HMs (Hoenn) + NPCs + Gyms/E4 (Hoenn)
+
+***
+***
+# ORIGINAL:
+
+### Information
 **Q: What is SupersStrings?**
 > SupersStrings is my passion project for the PokeMMO community to achieve the goal of unlocking the full potential of what strings can offer.
 > After strings were nerfed, a lot of people saw strings as useless or borderline do nothing.
